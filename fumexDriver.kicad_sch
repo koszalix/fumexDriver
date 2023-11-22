@@ -6,8 +6,8 @@
 
   (title_block
     (title "Fumex Driver")
-    (date "2023-11-21")
-    (rev "1.0.0")
+    (date "2023-11-22")
+    (rev "1.1.0")
     (company "Pawel Koszalka")
   )
 
