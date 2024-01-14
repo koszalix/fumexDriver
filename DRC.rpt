@@ -1,0 +1,116 @@
+** Drc report for /home/pawel/Dropbox/Workspace/fumexDriver/fumexDriver.kicad_pcb **
+** Created on 2023-11-22 14:42:23 **
+
+** Found 23 DRC violations **
+[silk_overlap]: Silkscreen overlap (Pad to Silkscreen clearance 0.1500 mm; actual 0.1378 mm)
+    Rule: Pad to Silkscreen; Severity: warning (excluded)
+    @(120.4500 mm, 72.2000 mm): Circle on F.Silkscreen
+    @(120.4500 mm, 72.2000 mm): Pad 1 [GND] of TP9 on F.Cu
+[silk_overlap]: Silkscreen overlap (Pad to Silkscreen clearance 0.1500 mm; actual 0.1378 mm)
+    Rule: Pad to Silkscreen; Severity: warning (excluded)
+    @(123.6000 mm, 72.2000 mm): Circle on F.Silkscreen
+    @(123.6000 mm, 72.2000 mm): Pad 1 [Net-(J1-Pin_2)] of TP1 on F.Cu
+[silk_overlap]: Silkscreen overlap (Pad to Silkscreen clearance 0.1500 mm; actual 0.1378 mm)
+    Rule: Pad to Silkscreen; Severity: warning (excluded)
+    @(162.4000 mm, 101.6000 mm): Circle on F.Silkscreen
+    @(162.4000 mm, 101.6000 mm): Pad 1 [+12VA] of TP11 on F.Cu
+[silk_overlap]: Silkscreen overlap (Pad to Silkscreen clearance 0.1500 mm; actual 0.1378 mm)
+    Rule: Pad to Silkscreen; Severity: warning (excluded)
+    @(141.2000 mm, 107.0000 mm): Circle on F.Silkscreen
+    @(141.2000 mm, 107.0000 mm): Pad 1 [+12P] of TP4 on F.Cu
+[silk_overlap]: Silkscreen overlap (Pad to Silkscreen clearance 0.1500 mm; actual 0.1378 mm)
+    Rule: Pad to Silkscreen; Severity: warning (excluded)
+    @(156.4000 mm, 99.2000 mm): Circle on F.Silkscreen
+    @(156.4000 mm, 99.2000 mm): Pad 1 [+12V] of TP3 on F.Cu
+[silk_overlap]: Silkscreen overlap (Pad to Silkscreen clearance 0.1500 mm; actual 0.1378 mm)
+    Rule: Pad to Silkscreen; Severity: warning (excluded)
+    @(156.4000 mm, 101.6000 mm): Circle on F.Silkscreen
+    @(156.4000 mm, 101.6000 mm): Pad 1 [GND] of TP6 on F.Cu
+[silk_overlap]: Silkscreen overlap (Pad to Silkscreen clearance 0.1500 mm; actual 0.1378 mm)
+    Rule: Pad to Silkscreen; Severity: warning (excluded)
+    @(152.0000 mm, 79.7000 mm): Circle on F.Silkscreen
+    @(152.0000 mm, 79.7000 mm): Pad 1 [+12L] of TP10 on F.Cu
+[silk_overlap]: Silkscreen overlap (Pad to Silkscreen clearance 0.1500 mm; actual 0.1378 mm)
+    Rule: Pad to Silkscreen; Severity: warning (excluded)
+    @(175.7000 mm, 101.7000 mm): Circle on F.Silkscreen
+    @(175.7000 mm, 101.7000 mm): Pad 1 [Net-(Q2-G)] of TP17 on F.Cu
+[silk_overlap]: Silkscreen overlap (Pad to Silkscreen clearance 0.1500 mm; actual 0.1378 mm)
+    Rule: Pad to Silkscreen; Severity: warning (excluded)
+    @(175.7000 mm, 104.5000 mm): Circle on F.Silkscreen
+    @(175.7000 mm, 104.5000 mm): Pad 1 [Net-(U2-Q)] of TP20 on F.Cu
+[silk_overlap]: Silkscreen overlap (Pad to Silkscreen clearance 0.1500 mm; actual 0.1378 mm)
+    Rule: Pad to Silkscreen; Severity: warning (excluded)
+    @(183.4000 mm, 97.2000 mm): Circle on F.Silkscreen
+    @(183.4000 mm, 97.2000 mm): Pad 1 [GND] of TP18 on F.Cu
+[silk_overlap]: Silkscreen overlap (Pad to Silkscreen clearance 0.1500 mm; actual 0.1378 mm)
+    Rule: Pad to Silkscreen; Severity: warning (excluded)
+    @(183.4000 mm, 94.4000 mm): Circle on F.Silkscreen
+    @(183.4000 mm, 94.4000 mm): Pad 1 [Net-(Q1-C)] of TP12 on F.Cu
+[silk_overlap]: Silkscreen overlap (Pad to Silkscreen clearance 0.1500 mm; actual 0.1378 mm)
+    Rule: Pad to Silkscreen; Severity: warning (excluded)
+    @(170.8000 mm, 97.0000 mm): Circle on F.Silkscreen
+    @(170.8000 mm, 97.0000 mm): Pad 1 [Net-(C14-Pad1)] of TP15 on F.Cu
+[silk_overlap]: Silkscreen overlap (Pad to Silkscreen clearance 0.1500 mm; actual 0.1378 mm)
+    Rule: Pad to Silkscreen; Severity: warning (excluded)
+    @(184.2000 mm, 118.1000 mm): Circle on F.Silkscreen
+    @(184.2000 mm, 118.1000 mm): Pad 1 [Net-(D4-A2)] of TP19 on F.Cu
+[silk_overlap]: Silkscreen overlap (Pad to Silkscreen clearance 0.1500 mm; actual 0.1378 mm)
+    Rule: Pad to Silkscreen; Severity: warning (excluded)
+    @(178.2000 mm, 117.9000 mm): Circle on F.Silkscreen
+    @(178.2000 mm, 117.9000 mm): Pad 1 [Net-(D16-A2)] of TP14 on F.Cu
+[silk_overlap]: Silkscreen overlap (Pad to Silkscreen clearance 0.1500 mm; actual 0.1378 mm)
+    Rule: Pad to Silkscreen; Severity: warning (excluded)
+    @(189.5000 mm, 124.0000 mm): Circle on F.Silkscreen
+    @(189.5000 mm, 124.0000 mm): Pad 1 [Net-(D17-A2)] of TP13 on F.Cu
+[silk_overlap]: Silkscreen overlap (Pad to Silkscreen clearance 0.1500 mm; actual 0.1378 mm)
+    Rule: Pad to Silkscreen; Severity: warning (excluded)
+    @(186.9250 mm, 74.2000 mm): Circle on F.Silkscreen
+    @(186.9250 mm, 74.2000 mm): Pad 1 [GND] of TP2 on F.Cu
+[silk_overlap]: Silkscreen overlap (Pad to Silkscreen clearance 0.1500 mm; actual 0.1378 mm)
+    Rule: Pad to Silkscreen; Severity: warning (excluded)
+    @(186.9250 mm, 71.9500 mm): Circle on F.Silkscreen
+    @(186.9250 mm, 71.9500 mm): Pad 1 [/PWM generator/F_{PWM}] of TP7 on F.Cu
+[silk_overlap]: Silkscreen overlap (Pad to Silkscreen clearance 0.1500 mm; actual 0.1378 mm)
+    Rule: Pad to Silkscreen; Severity: warning (excluded)
+    @(192.0000 mm, 68.5000 mm): Circle on F.Silkscreen
+    @(192.0000 mm, 68.5000 mm): Pad 1 [/PWM generator/F_{FBK}] of TP8 on F.Cu
+[silk_overlap]: Silkscreen overlap (Pad to Silkscreen clearance 0.1500 mm; actual 0.1000 mm)
+    Rule: Pad to Silkscreen; Severity: warning (excluded)
+    @(125.2000 mm, 72.0000 mm): Rect on F.Silkscreen
+    @(149.3000 mm, 76.5000 mm): PTH pad 2 [+12L] of FH1
+[silk_overlap]: Silkscreen overlap (Pad to Silkscreen clearance 0.1500 mm; actual 0.1378 mm)
+    Rule: Pad to Silkscreen; Severity: warning (excluded)
+    @(168.7000 mm, 120.3000 mm): Circle on F.Silkscreen
+    @(168.7000 mm, 120.3000 mm): Pad 1 [Net-(Q4-B)] of TP16 on F.Cu
+[silk_overlap]: Silkscreen overlap (Pad to Silkscreen clearance 0.1500 mm; actual 0.1378 mm)
+    Rule: Pad to Silkscreen; Severity: warning (excluded)
+    @(133.9500 mm, 119.3000 mm): Circle on F.Silkscreen
+    @(133.9500 mm, 119.3000 mm): Pad 1 [Net-(U3A-+)] of TP5 on F.Cu
+[lib_footprint_mismatch]: Footprint 'z5' does not match copy in library 'Kradex'.
+    Local override; Severity: warning (excluded)
+    @(157.7500 mm, 85.2500 mm): Footprint MC1
+[track_dangling]: Track has unconnected end
+    Local override; Severity: warning (excluded)
+    @(132.2000 mm, 107.1000 mm): Track [Net-(Q3-B)] on F.Cu, length 0.1000 mm
+
+** Found 1 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; Severity: error (excluded)
+    @(175.2400 mm, 115.6050 mm): Pad 4 [+12VA] of U2 on F.Cu
+    @(172.3000 mm, 115.1250 mm): Track [+12VA] on F.Cu, length 0.0354 mm
+
+** Found 4 Footprint errors **
+[extra_footprint]: Extra footprint
+    Local override; Severity: warning (excluded)
+    @(194.5000 mm, 52.5000 mm): Footprint REF**
+[extra_footprint]: Extra footprint
+    Local override; Severity: warning (excluded)
+    @(194.8000 mm, 61.9000 mm): Footprint REF100
+[extra_footprint]: Extra footprint
+    Local override; Severity: warning (excluded)
+    @(158.0000 mm, 127.0000 mm): Footprint REF102
+[extra_footprint]: Extra footprint
+    Local override; Severity: warning (excluded)
+    @(144.9000 mm, 127.0000 mm): Footprint REF101
+
+** End of Report **
